@@ -1,39 +1,52 @@
-# Noah — 근거 있게 판단하는 개발자
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=100&height=300&section=header&text=Noah's%20GitHub&fontSize=80&animation=twinkling)
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=900&color=7aa2f7&width=720&height=48&lines=Java%C2%B7Spring%20Boot%20백엔드%20개발자;근거%20있는%20판단으로%20실행합니다" alt="Typing SVG" />
+# Hi I'm  Noah
+근거 있는 코드를 작성하는 백엔드 개발자 Noah입니다. 사소한 변화도 근거와 이유를 가지고 애매한 코드보다 의도가 명확한 틀린 코드를 작성하는게 더 낫다고 생각합니다.
+
+
+### Skills
+#### Tech
+
+<p >
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+	<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+	<img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
+	<img src="https://img.shields.io/badge/Querydsl-2F9AE0?style=flat-square&logoColor=white" alt="Querydsl" />
+	<img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit5" />
+	<img src="https://img.shields.io/badge/Mockito-4B32C3?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
 </p>
 
-<p align="center">
-	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-	<img src="https://img.shields.io/badge/Backend-Engineer-0366d6?style=for-the-badge&logo=backendless&logoColor=white" alt="Backend" />
+#### ETC
+
+<p>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA" />
+	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+	<img src="https://img.shields.io/badge/Claude%20Code-1EA7EA?style=flat-square&logoColor=white" alt="Claude Code" />
+	<img src="https://img.shields.io/badge/Cursor-2D9BF0?style=flat-square&logoColor=white" alt="Cursor" />
+	<img src="https://img.shields.io/badge/MCP-5865F2?style=flat-square&logoColor=white" alt="MCP" />
 </p>
 
-<p align="center">
-	<!-- Replace `your-username` with your GitHub username -->
-	<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=ko&theme=tokyonight&hide_rank=false" alt="GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top languages" />
+### Stats
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pray00)](https://solved.ac/pray00)
+### Recent Articles
+
+### Contact Me
+
+<p>
+	<a href="jeonghogim318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+	<a href="https://noaahhh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-Visit%20Blog-2b2b2b?style=flat-square&logoColor=white" alt="Tistory" /></a>
 </p>
-
----
-
-효율과 신뢰성에 집중하는 백엔드 엔지니어의 개인 레포지토리 — 작은 실험에서 배포까지, 근거로 선택하고 코드로 증명합니다.
-
-## 빠른 시작
-
-```bash
-git clone https://github.com/your-username/gratisreise.git
-cd gratisreise
-# 각 하위 프로젝트의 README를 확인하세요
-```
-
-## 기여
-
-- 문서 수정, 오타, 작은 개선 PR 환영
-- 기능 제안은 이슈로 먼저 논의해주세요
-
----
-
-원하시면 제가 `your-username`을 실제 GitHub 아이디로 바꿔 넣어드리거나,
-배지 색상·타이핑 문구를 더 다듬어 드리겠습니다.
