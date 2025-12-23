@@ -40,7 +40,6 @@
     - **JVM & GC 튜닝**: GC 파라미터 조정을 **p99 30s -> 5s로 80% 개선**
     - **Redis 캐싱**: 게시글 전체조회 api **TPS가 100 -> 212 100%** 개선
     - **N+1 문제**: QueryDSL을 이용한 쿼리 최적화로 N+1문제 해결 후 **90ms -> 45ms**로 **50% 개선**
-
     - **CI-CD 파이프라인**: GitHUb Actions를 이용한 CI-CD 파이프 라인 구축으로 배포시간 **40분 -> 8분 80% 감소**
 
 ### 2. [Rebook](https://github.com/gratisreise/rebook)
