@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=100&height=300&section=header&text=Noah's%20GitHub&fontSize=80&animation=twinkling)
-# 🚀 Identity
-> **"작은 변화일지라도 명확한 근거를 기반으로 개발합니다. 애매한 의도를 담은 코드보다 틀리더라도 명확한 의도가 담긴 코드를 작성하는 것을 선호합니다."**
 
-## 🛠 Tech Stack
-- **Backend**
+# Hi I'm  Noah
+근거 있는 코드를 작성하는 백엔드 개발자 Noah입니다. 사소한 변화도 근거와 이유를 가지고 애매한 코드보다 의도가 명확한 틀린 코드를 작성하는게 더 낫다고 생각합니다.
+
+
+### Skills
+
+#### Backend
+
 <p>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
 	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -15,54 +19,48 @@
 	<img src="https://img.shields.io/badge/Mockito-4B32C3?style=flat-square&logo=mockito&logoColor=white" alt="Mockito" />
 </p>
 
-- **Infra**
-<p>
-	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-	<img src="https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-</p>
+#### Database & Hosting
 
-- **Database**
 <p>
 	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 	<img src="https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## 📂 Featured Projects
-### 1. [MyLog](https://github.com/gratisreise/mylog)
-- **Keyword**: 데이터 기반 성능 최적화
-- **Summary**:
-    - **JVM & GC 튜닝**:[내용]
-    - **Redis 캐싱**:[내용]
-    - **N+1 문제**:[내용]
-    - **CI-CD 파이프라인**:[내용]
-    - **Test Code**:[내용]
+#### Monitoring & Logging
 
-### 2. [Rebook](https://github.com/gratisreise/rebook)
-- **Keyword**: 다중 서버를 고려한 확장성 있는 아키텍처 설계
-- **Summary**:
-    - **Netfilx Passport**: 
-    - **Outbox Pattenr & DLQ**:[내용]
-    - **Redis Pub/Sub**:[내용]
-    - **RabbitMQ STOMP**:[내용]
-	- **MSA**: 6개의 서비스를 보유하는 마이크로 서비스 아키텍처 설계
+<p>
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+	<img src="https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+</p>
 
-## ✍️ Recent Posts
-- [JPA N+1 문제는 왜 발생하는가?](링크)
-- [추상화와 인터페이스, 어디까지 해야 할까?](링크)
-- [좋은코드는 무엇인가? 나쁜코드는 무엇인가?](링크)
+#### ETC
 
-## 📈 Stats
+<p>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA" />
+	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+	<img src="https://img.shields.io/badge/Claude%20Code-1EA7EA?style=flat-square&logoColor=white" alt="Claude Code" />
+	<img src="https://img.shields.io/badge/Cursor-2D9BF0?style=flat-square&logoColor=white" alt="Cursor" />
+	<img src="https://img.shields.io/badge/MCP-5865F2?style=flat-square&logoColor=white" alt="MCP" />
+</p>
+
+### Stats
+
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gratisreise&theme=gotham&show_icons=true)](https://github.com/gratisreise/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pray00)](https://solved.ac/pray00)
+### Recent Articles
 
+### Contact Me
 
-### ✉️ Contact Me
-- email: jeonghogim318@gmail.com
+<p>
+	<a href="jeonghogim318@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+	<a href="https://noaahhh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-Visit%20Blog-2b2b2b?style=flat-square&logoColor=white" alt="Tistory" /></a>
+</p>
