@@ -37,20 +37,20 @@
 ### 1. [MyLog](https://github.com/gratisreise/mylog)
 - **Keyword**: 데이터 기반 성능 최적화
 - **Summary**:
-    - **JVM & GC 튜닝**:[내용]
-    - **Redis 캐싱**:[내용]
-    - **N+1 문제**:[내용]
-    - **CI-CD 파이프라인**:[내용]
-    - **Test Code**:[내용]
+    - **JVM & GC 튜닝**: GC 파라미터 조정을 **p99 30s -> 5s로 80% 개선**
+    - **Redis 캐싱**: 게시글 전체조회 api **TPS가 100 -> 212 100%** 개선
+    - **N+1 문제**: QueryDSL을 이용한 쿼리 최적화로 N+1문제 해결 후 **90ms -> 45ms**로 **50% 개선**
+
+    - **CI-CD 파이프라인**: GitHUb Actions를 이용한 CI-CD 파이프 라인 구축으로 배포시간 **40분 -> 8분 80% 감소**
 
 ### 2. [Rebook](https://github.com/gratisreise/rebook)
 - **Keyword**: 다중 서버를 고려한 확장성 있는 아키텍처 설계
 - **Summary**:
-    - **Netfilx Passport**: 
-    - **Outbox Pattenr & DLQ**:[내용]
-    - **Redis Pub/Sub**:[내용]
-    - **RabbitMQ STOMP**:[내용]
-	- **MSA**: 6개의 서비스를 보유하는 마이크로 서비스 아키텍처 설계
+    - **Netfilx Passport**: API Gateway 기반 요청 흐름에서 “JWT 외부 인증”과 “내부 Passport 인증”을 분리
+    - **Outbox Pattenr & DLQ**:Outbox Pattern과 DLQ 기반설계로 **데이터 일관성**과 **메시지 안정성 강화**
+    - **Redis Pub/Sub**:Redis Pub/Sub을 이용해 메세지 처리 불일치를 해결하고 알림서비스 **확장성 개선**
+    - **RabbitMQ STOMP**:RabbitMQ STOMP 외부 메세지 브로커 사용으로 채팅서비스 **확장성 개선**
+	- **MSA**:  Spring Cloud를 이용하여 6개의 서비스를 가지는 **MSA 아키텍처 구축**
 
 ## ✍️ Recent Posts
 - [JPA N+1 문제는 왜 발생하는가?](링크)
