@@ -51,11 +51,6 @@
     - **RabbitMQ STOMP**:RabbitMQ STOMP 외부 메세지 브로커 사용으로 채팅서비스 **확장성 개선**
 	- **MSA**:  Spring Cloud를 이용하여 6개의 서비스를 가지는 **MSA 아키텍처 구축**
 
-## ✍️ Recent Posts
-- [JVM & GC 튜닝](링크)
-- [QuerDSL을 활용한 쿼리 최적화](https://better-page-189.notion.site/N-1-29609de9fe418015b799f286a465d7e9)
-- [로컬캐시? 분산캐시?](https://better-page-189.notion.site/29609de9fe418053b59add56a43d9b5a)
-
 ## 📈 Stats
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gratisreise&theme=gotham&show_icons=true)](https://github.com/gratisreise/github-readme-stats)
 
