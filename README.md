@@ -45,7 +45,7 @@
 	
 
 ### 2. [Rebook](https://github.com/gratisreise/rebook)
-- **Keyword**: 다중 서버를 고려한 확장성 있는 아키텍처 설계
+- **Description**: LLM을 이용한 자동거래 등록 중고 도서 서비스
 - **Summary**:
     - **Netfilx Passport**: API Gateway 기반 요청 흐름에서 “JWT 외부 인증”과 “내부 Passport 인증”을 분리
     - **Outbox Pattenr & DLQ**:Outbox Pattern과 DLQ 기반설계로 **데이터 일관성**과 **메시지 안정성 강화**
@@ -55,7 +55,7 @@
 
 
 ### 3. [MyLog](https://github.com/gratisreise/mylog)
-- **Keyword**: 데이터 기반 성능 최적화
+- **Description**: AI를 이용한 문체변환 및 자동 게시글 요약 블로그 서비스
 - **Summary**:
 	- **N+1 문제**: QueryDSL을 이용한 쿼리 최적화로 N+1문제 해결 후 **90ms -> 45ms**로 **50% 개선**
     - **CI-CD 파이프라인**: GitHUb Actions를 이용한 CI-CD 파이프 라인 구축으로 배포시간 **40분 -> 8분 80% 감소**
