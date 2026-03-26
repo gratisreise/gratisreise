@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorlist=100&height=300&section=header&text=Noah's%20GitHub&fontSize=80&animation=twinkling)
 # 🚀 Identity
-> **"작은 변화일지라도 명확한 근거를 기반으로 개발합니다. 모호한 코드보다 틀리더라도 명확한 의도가 담긴 코드를 작성하는 것을 선호합니다."**
+> **"작은 변화일지라도 명확한 근거를 기반으로 개발합니다. 애매한 의도를 담은 코드보다 틀리더라도 명확한 의도가 담긴 코드를 작성하는 것을 선호합니다."**
 
 ## 🛠 Tech Stack
 - **Backend**
@@ -17,8 +17,8 @@
 
 - **Infra**
 <p>
-	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
 	<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+	<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
@@ -34,13 +34,15 @@
 </p>
 
 ## 📂 Featured Projects
-### 1. [MyLog](https://github.com/gratisreise/mylog)
-- **Keyword**: 데이터 기반 성능 최적화
+### 1. [MyMeal](https://github.com/gratisreise/mymeal)
+- **Description**: RAG를 이용한 개인화 식단 추천 서비스
 - **Summary**:
-    - **JVM & GC 튜닝**: GC 파라미터 조정을 **p99 30s -> 5s로 80% 개선**
-    - **Redis 캐싱**: 게시글 전체조회 api **TPS가 100 -> 212 100%** 개선
-    - **N+1 문제**: QueryDSL을 이용한 쿼리 최적화로 N+1문제 해결 후 **90ms -> 45ms**로 **50% 개선**
-    - **CI-CD 파이프라인**: GitHUb Actions를 이용한 CI-CD 파이프 라인 구축으로 배포시간 **40분 -> 8분 80% 감소**
+    - **RAG**: 벡터검색을 이용한 문맥주입으로 **개인화된 식단 추천**
+	- **AI식단분석**:  Spring Ai를 이용하여 gemini-2.5-flash를 연결하고 **사진을 분석하여 식단 자동저장**
+    - **배치처리**: gemini의 호출제한을 피하기 위해 배치 설정
+    - **Redis ZSet**:주기적인 DB의 반복조회를 피하기 위해 Redi ZSet을 이용하여 알림예약
+	- **FCM**: FCM 토큰을 이용하여 **푸시알림 구현**
+	
 
 ### 2. [Rebook](https://github.com/gratisreise/rebook)
 - **Keyword**: 다중 서버를 고려한 확장성 있는 아키텍처 설계
@@ -48,14 +50,33 @@
     - **Netfilx Passport**: API Gateway 기반 요청 흐름에서 “JWT 외부 인증”과 “내부 Passport 인증”을 분리
     - **Outbox Pattenr & DLQ**:Outbox Pattern과 DLQ 기반설계로 **데이터 일관성**과 **메시지 안정성 강화**
     - **Redis Pub/Sub**:Redis Pub/Sub을 이용해 메세지 처리 불일치를 해결하고 알림서비스 **확장성 개선**
-    - **RabbitMQ STOMP**:RabbitMQ STOMP 외부 메세지 브로커 사용으로 채팅서비스 **확장성 개선**
+	- **AI거래묶음등록**: LLM을 이용하여 도서를 추출하고 거래자동등록
 	- **MSA**:  Spring Cloud를 이용하여 6개의 서비스를 가지는 **MSA 아키텍처 구축**
+
+
+### 3. [MyLog](https://github.com/gratisreise/mylog)
+- **Keyword**: 데이터 기반 성능 최적화
+- **Summary**:
+	- **N+1 문제**: QueryDSL을 이용한 쿼리 최적화로 N+1문제 해결 후 **90ms -> 45ms**로 **50% 개선**
+    - **CI-CD 파이프라인**: GitHUb Actions를 이용한 CI-CD 파이프 라인 구축으로 배포시간 **40분 -> 8분 80% 감소**
+	- **JWT 토큰처리**: Access 토큰을 블랙리스트 처리하여 토큰 무단도용 방지
+    - **AI 문체변환**: LLM을 이용하여 작성한 글을 원하는 문체로 변경
+    - **AI 요약**: 게시글의 내용을 요약하여 사용자의 글자 피로도 감소 
+	
+    
+
+
+
+## ✍️ Code Contribute
+[eclipse-colecctions](https://github.com/eclipse-collections/eclipse-collections/pull/1844)
 
 ## 📈 Stats
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gratisreise&theme=gotham&show_icons=true)](https://github.com/gratisreise/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pray00)](https://solved.ac/pray00)
+
+
 
 
 ### ✉️ Contact Me
